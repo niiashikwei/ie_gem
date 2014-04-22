@@ -1,4 +1,4 @@
-# Ie
+# IE
 
 TODO: Write a gem description
 

@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.name          = "ie"
   spec.version       = IE::VERSION
   spec.authors       = ["Nii"]
-  spec.email         = ["tetteh_ideaz@gmail.com"]
+  spec.email         = ["ntetteh@amplify.com"]
   spec.summary       = "Summary"
   spec.description   = "Description"
   spec.homepage      = "https://rubygems.org/gems/ie"
